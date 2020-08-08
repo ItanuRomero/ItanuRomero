@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**ItanuRomero/ItanuRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Itanu, and:**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on 2 important projects: [idvogados](https://www.idvogados.org) and my undergraduate research project about Music.
+- 🌱 I’m currently learning Python, Data Science, Web (HTML/CSS/JS), etc...
+- 🤔 I’m looking for help with: find a internship to learn more and more.
+- 💬 Ask me about hardware, I know a little things about it haha.
+- 📫 How to reach me: Send me a message or add me on [LinkedIn](https://www.linkedin.com/in/itan%C3%BA-romero-86968817b/) 
+- ⚡ Fun fact: student from Uruguay, but I lived in Brazil most part of my life!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## If you want to see...
+
+**Proffy Project** ( _made on next level week_ )
+
+click [here](https://github.com/ItanuRomero/Proffy-Project)
+
+**idvogados** ( _acess to justice_ )
+
+click [here](https://github.com/idvogados/idvogados.github.io)
+
+**My studies on python**
+
+click [here](https://github.com/ItanuRomero/PythonStudyPrograms)
+
+### Thanks for the attention and be in touch, bye.
