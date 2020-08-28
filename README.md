@@ -2,12 +2,14 @@
 
 **My name is Itanu, and:**
 
-- 🔭 I’m currently working on 2 important projects: [idvogados](https://www.idvogados.org) and my undergraduate research project about Music.
+- 🔭 I’m currently working on a important project: my undergraduate research project about Music.
 - 🌱 I’m currently learning Python, Data Science, Web (HTML/CSS/JS), C, SQL, etc...
 - 🤔 I’m looking for help with: find a internship to learn more and more.
 - 💬 Ask me about hardware, I know a little things about it haha.
 - 📫 How to reach me: Send me a message or add me on [LinkedIn](https://www.linkedin.com/in/itan%C3%BA-romero-86968817b/) 
 - ⚡ Fun fact: student from Uruguay, but I lived in Brazil most part of my life!
+
+-> Another fact: I'm close to graduate on my tecnical course about Hardware and Robotics!
 
 ## If you want to see...
 
