@@ -9,7 +9,9 @@
 - 📫 How to reach me: Send me a message or add me on [LinkedIn](https://www.linkedin.com/in/itan%C3%BA-romero-86968817b/) 
 - ⚡ Fun fact: student from Uruguay, but I lived in Brazil most part of my life!
 
--> Another fact: I'm close to graduate on my tecnical course about Hardware and Robotics!
+- > Another fact: I'm close to graduate on my tecnical course about Hardware and Robotics!
+
+___
 
 ## If you want to see...
 
@@ -24,6 +26,8 @@ click [here](https://github.com/idvogados/idvogados.github.io)
 **My studies on python**
 
 click [here](https://github.com/ItanuRomero/PythonStudyPrograms)
+
+___
 
 ### Thanks for the attention and be in touch, bye.
 
