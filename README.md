@@ -3,7 +3,7 @@
 **My name is Itanu, and:**
 
 - 🔭 I’m currently working on a important project: my undergraduate research project about Music.
-- 🌱 I’m currently learning Python, Data Science, Web (HTML/CSS/JS), C, SQL, etc...
+- 🌱 I’m currently learning Python, Data Science, Web (HTML/CSS/JS), C, SQL, Java, C++, etc...
 - 🤔 I’m looking for help with: find a internship to learn more and more.
 - 💬 Ask me about hardware, I know a little things about it haha.
 - 📫 How to reach me: Send me a message or add me on [LinkedIn](https://www.linkedin.com/in/itanuromero/) 
