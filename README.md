@@ -10,14 +10,9 @@
 - ⚡ Fun fact: student from Uruguay, but I lived in Brazil most part of my life!
 
 - > Another fact: I'm close to graduate on my tecnical course about Hardware and Robotics!
-
 ___
 
 ## If you want to see...
-
-**TerrArte** ( _my first website. Only for mobile_ )
-
-click [here](https://github.com/ItanuRomero/TerrArte)
 
 **Proffy Project** ( _made on next level week_ )
 
@@ -27,9 +22,9 @@ click [here](https://github.com/ItanuRomero/Proffy-Project)
 
 click [here](https://github.com/idvogados/idvogados.github.io)
 
-**My studies on python**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItanuRomero&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-click [here](https://github.com/ItanuRomero/PythonStudyPrograms)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ItanuRomero&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
