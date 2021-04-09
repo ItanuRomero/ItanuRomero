@@ -9,7 +9,6 @@
 - 📫 How to reach me: Send me a message or add me on [LinkedIn](https://www.linkedin.com/in/itanuromero/) 
 - ⚡ Fun fact: student from Uruguay, but I lived in Brazil most part of my life!
 
-- > Another fact: I'm close to graduate on my tecnical course about Hardware and Robotics!
 ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItanuRomero&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
