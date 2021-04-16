@@ -13,7 +13,7 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItanuRomero&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ItanuRomero&count_private=true&show_icons=true&theme=react&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ItanuRomero&count_private=true&show_icons=true&theme=react&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
