@@ -1,7 +1,7 @@
 # Hello World 👋 - **My name is Itanú Romero!**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItanuRomero&layout=compact&theme=react)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ItanuRomero&count_private=true&show_icons=true&theme=react&hide=prs,issues,contribution)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ItanuRomero&count_private=true&show_icons=true&theme=react&hide=contribution)
 ___
 I'm learning to be a 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32">
