@@ -30,7 +30,7 @@ Other languages and technologies that i have advanced knowledge
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="64">
 </div>
 
-## My Goal is to become a Data Scientist and be a great leader
+## My Goal is to be a great problem solver & leader
 
 <div styles="width: 100%; display: flex;">
 Send me a message or add me on <a href="https://www.linkedin.com/in/itanuromero/"> Linkedin
