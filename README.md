@@ -1,38 +1,47 @@
-# Hello World 👋 - **My name is Itanú Romero!**
+# Olá, eu sou **Itanú Romero** 👋 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItanuRomero&layout=compact&theme=react)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ItanuRomero&count_private=true&show_icons=true&theme=react&hide=contribution)
-___
-I'm learning to be a 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32">
-Specialist
+## Sou um **Engenheiro de Software** focado em desenvolvimento web fullstack.
 
-Other languages and technologies that i have advanced knowledge
-<div styles="width: 100%; display: flex; justify-content: space-between">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS 3" width="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="64">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" width="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu - Linux" width="64">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Lang" width="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="64">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="SalesForce" width="64">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="64">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="64">
-</div>
+Além disso, possuo conhecimento avançado em Python, o que me permite trabalhar em uma ampla gama de projetos e resolver problemas diversos.
 
-## My Goal is to be a great problem solver & leader
+## Habilidades e Tecnologias
 
-<div styles="width: 100%; display: flex;">
-Send me a message or add me on <a href="https://www.linkedin.com/in/itanuromero/"> Linkedin
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" width="24"> </a>
-</div>
+- **Linguagens:** TypeScript, JavaScript & Python
+- **Backend:** Node.js, Express & Django
+- **Frontend:** HTML 5, CSS 3, React & Next.js
+- **Banco de Dados:** PostgreSQL
+- **Outras ferramentas e tecnologias:** Git, Docker, Linux, VSCode, Vercel, Jenkins, GitHub & Testes automatizados!
+
+## Experiência
+
+- Desenvolvimento e manutenção de aplicações web fullstack
+- Criação de automações, serviços e projetos de ciência de dados com Python
+- Construção de interfaces de usuário dinâmicas e responsivas usando React e Next.js
+- Colaboração em projetos de grande escala e em equipes multidisciplinares
+
+## Projetos Destacados
+
+- [**Entusiastas**](https://github.com/ItanuRomero/entusiastas): O projeto que eu sempre quis tirar do papel!
+  - Um blog para você publicar sobre o que é entusiasta
+  - Um projeto completo, com conhecimentos de front, back, infra e devops
+  - Feito em Next.js
+  - Publicado em um domínio .br: [entusiastas.blog.br](https://entusiastas.blog.br/)
+- [**cancer-prediction**](https://github.com/ItanuRomero/cancer-prediction): Meu trabalho de conclusão do curso "Engenharia de Software para Ciência de Dados" pela PUC-Rio
+  - [Certificado do curso](https://github.com/ItanuRomero/MyCertificates/blob/master/PUC/SoftEngForDataSci.pdf)
+  - [Diário de desenvolvimento](https://itanuromero.medium.com/di%C3%A1rio-de-desenvolvimento-de-software-cria%C3%A7%C3%A3o-de-um-modelo-de-machine-learning-7dac26153461), onde ensino como fazer um projeto completo de ciência de dados com base nesse projeto
+- [**smart-notes**](https://github.com/ItanuRomero/smart-notes): Projeto para manter suas tarefas e anotações
+  - Feito com Python e **Django**
+- [**extensionCLI**](https://github.com/ItanuRomero/extensionCLI): Uma Command Line Interface que você pode instalar e usar para saber um pouco das suas extensões
+  - Criada em Python
+  - Quer ver como foi feito? Veja [como criar uma CLI em python](https://itanuromero.medium.com/como-criar-uma-cli-em-python-fd80320f7968)
+- [**Canal no YouTube**](https://www.youtube.com/channel/UCDZlah4DETuQkIh0i1BoKpg): Vamos aprender, praticar e criar coisas juntos!
+
+## Contato
+
+- **LinkedIn:** [Perfil no LinkedIn](https://www.linkedin.com/in/itanuromero/)
+- **Email:** [romero.itanu@gmail.com](mailto:romero.itanu@gmail.com)
+- **Portfólio:** [ItanuRomero.com.br](https://itanuromero.com.br/)
+- **Blog Pessoal:** [Medium](https://itanuromero.medium.com/)
+
+
+Sinta-se à vontade para entrar em contato comigo para oportunidades de colaboração ou para discutir projetos interessantes!
